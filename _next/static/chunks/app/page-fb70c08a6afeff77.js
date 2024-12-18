@@ -147,8 +147,6 @@
           src: "/_next/static/media/heroLogo.f9f52edf.svg",
           height: 50,
           width: 129,
-          blurDataURL:
-            "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAADCAMAAACZFr56AAAAJFBMVEX////h+/f////9//3///////9g6tFf69hZ5tJK5s1M5M38//89O/qaAAAADHRSTlMEDkgoWhc9KD8fQ2+MBD59AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIElEQVR4nGNg52RkZAABNi4mbiYWJhYGDkZGZiZmVmYABKEAVnVRqWEAAAAASUVORK5CYII=",
           blurWidth: 8,
           blurHeight: 3,
         },
@@ -441,7 +439,7 @@
                     "Create, train, and monetize your AI agents with Hemera AI your global, decentralized marketplace for intelligent innovation.",
                 }),
                 (0, i.jsx)(k.default, {
-                  href: "/deploy-agent",
+                  href: "https://app-hemera-ai.vercel.app/",
                   className:
                     "bg-[#0E60571A] flex-shrink-0 h-12 lg:flex hidden  w-60 mt-8 rounded-3xl text-white text-lg shadow-homeNavBtnSahdow justify-center  items-center font-medium gap-1 hover:bg-[#0E6057]",
                   children: "Create Agent",

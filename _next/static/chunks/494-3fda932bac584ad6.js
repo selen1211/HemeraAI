@@ -26334,7 +26334,7 @@
           ONE_SEC_MS: 1e3,
           SECURE_SITE: o,
           SECURE_SITE_DASHBOARD: `${o}/dashboard`,
-          SECURE_SITE_FAVICON: `${o}/images/favicon.svg`,
+          SECURE_SITE_FAVICON: `${o}/favicon.svg`,
           RESTRICTED_TIMEZONES: [
             "ASIA/SHANGHAI",
             "ASIA/URUMQI",
